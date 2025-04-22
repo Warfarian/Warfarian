@@ -1,5 +1,5 @@
 <!-- BANNER -->
-<img src="https://storage.modworkshop.net/mods/images/70471_1608988291_4b0cdca7e52266bcddc8728f70975154.gif" width="100%" alt="banner" />
+<img src="https://github.com/Warfarian/Warfarian/raw/main/70471_1608988291_4b0cdca7e52266bcddc8728f70975154.gif" width="100%" alt="banner" />
 
 <h1 align="center">Hey there 👋, I'm Arsh</h1>
 <h3 align="center">CSE @ SRMIST • 5x Hackathon Winner 🏆 • Full-Stack + AI Dev • Building Things That Make You Go "Whoa."</h3>
