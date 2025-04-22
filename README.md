@@ -68,20 +68,17 @@
 |-----------|----------------|---------------|
 | [**CTRL + ALT + DESIGN**](https://github.com/Warfarian/ui-gen) | Voice-to-UI AI that builds websites on command | React, Tailwind, Express, ElevenLabs, MagicLoops |
 | [**The Oracle’s Tavern**](https://github.com/Warfarian/oracle) | Medieval AI RPG where you’re the oracle | Phaser, React, Express, Twilio, DeepSeek |
-| **Payment Gateway App** | Secure multilingual banking interface for Equitas | HTML, CSS, JavaScript, Google Translate API |
-| **Smart Digitization System** | Reduced form errors & processing time with digital automation | Python, OCR, Indexing |
-
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=warfarian&show_icons=true&theme=tokyonight&count_private=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=warfarian&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=warfarian&show_icons=true&theme=transparent&count_private=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=warfarian&theme=transparent" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=warfarian&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=warfarian&layout=compact&theme=transparent" />
 </p>
 
 <p align="center">
