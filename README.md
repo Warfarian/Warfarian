@@ -2,7 +2,7 @@
 <img src="https://github.com/Warfarian/Warfarian/raw/main/70471_1608988291_4b0cdca7e52266bcddc8728f70975154.gif" width="100%" alt="banner" />
 
 <h1 align="center">Heyo, I'm Arsh</h1>
-<h3 align="center">CSE @ SRMIST | 5x Hackathon Winner 🏆 | Full-Stack + AI Dev</h3>
+<h3 align="center">5x Hackathon Winner 🏆 | Full-Stack + AI Dev</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Engineering+feelings+through+code.;Ship+fast.+Break+conventions.;Pixels%2C+pipelines%2C+possibility." alt="Typing SVG" />
